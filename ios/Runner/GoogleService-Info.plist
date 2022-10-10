@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>165187485468-ipq583282haouprlpbsvb99red2tm63v.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.165187485468-ipq583282haouprlpbsvb99red2tm63v</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDZ1Drh29HwNGCY3_9WUGf9v4qE1m6eMuU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>165187485468</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.AttendanceApp</string>
+	<key>PROJECT_ID</key>
+	<string>attendance-app-f5edc</string>
+	<key>STORAGE_BUCKET</key>
+	<string>attendance-app-f5edc.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:165187485468:ios:7b946352b9d0f3410984d9</string>
+	<key>DATABASE_URL</key>
+	<string>https://attendance-app-f5edc-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
